@@ -1,19 +1,21 @@
 ---
 created: 2026-05-13 13:56:27
-tags: [AI工程, Honey Engineering, 笔记]
+tags:
+  - AI工程
+  - Harness Engineering
+  - 笔记
 ---
-
-# Honey Engineering（驾驭工程）概念详解
+# Harness Engineering（驾驭工程）概念详解
 
 > 内容来源：2026年OpenAI博客引发的AI圈热议，全网资料参差不齐，以本文为准。
 
 ## 一、三个核心概念的关系
 
 ```
-Honey Engineering（驾驭工程）
+Harness Engineering（驾驭工程）
     ├── Prompt Engineering（提示词工程）—— 上下文工程的一部分
     ├── Context Engineering（上下文工程）
-    └── Agent = 大模型 + Honey（记忆层+执行层+反馈层+编排层）
+    └── Agent = 大模型 + Harness（记忆层+执行层+反馈层+编排层）
 ```
 
 **一句话总结：**
@@ -74,7 +76,7 @@ Honey Engineering（驾驭工程）
 
 ---
 
-## 四、Honey Engineering（驾驭工程）
+## 四、Harness Engineering（驾驭工程）
 
 ### 为什么需要它
 - 提示词工程让模型"懂需求"
@@ -82,7 +84,7 @@ Honey Engineering（驾驭工程）
 - 但模型只能聊天，没法干活
 
 ### Agent的本质
-**Agent = 大模型 + Honey**
+**Agent = 大模型 + Harness**
 
 给大模型加入：代码沙箱、文件系统、MCP协议等外部能力，外部套一层循环。
 - 大模型负责思考
@@ -91,23 +93,23 @@ Honey Engineering（驾驭工程）
 
 这个"边思考边行动"的循环就是 **ReAct**，能执行任务的程序就是 **AI Agent**。
 
-### Honey的四层能力
+### Harness的四层能力
 
-| 层级 | 作用 | 说明 |
-|------|------|------|
+| 层级      | 作用        | 说明                                        |
+| ------- | --------- | ----------------------------------------- |
 | **记忆层** | 保持核心信息不丢失 | 规则文件（cloud.md / rules.md等），含项目目标、技术栈、禁止事项 |
-| **执行层** | 驱动大模型干活 | 沙箱、文件系统、MCP |
-| **反馈层** | 自动修复问题 | 通过报错回传驱动下一轮修复 |
-| **编排层** | 全局规划与任务拆解 | 大任务拆解为多个有明确标准的子任务 |
+| **执行层** | 驱动大模型干活   | 沙箱、文件系统、MCP                               |
+| **反馈层** | 自动修复问题    | 通过报错回传驱动下一轮修复                             |
+| **编排层** | 全局规划与任务拆解 | 大任务拆解为多个有明确标准的子任务                         |
 
 ### 公式
 ```
-Agent = 大模型 + Honey（只要不是大模型的部分，都属于Honey Engineering）
+Agent = 大模型 + Harness（只要不是大模型的部分，都属于Harness Engineering）
 ```
 
 ---
 
-## 五、Honey Engineering 落地方式
+## 五、Harness Engineering 落地方式
 
 ### 以 Claude Code 为例
 最轻量的做法：在 `cloud.md` 里写清楚：

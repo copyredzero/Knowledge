@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "测试.md",
-                "mode": "source",
-                "source": false
+                "file": "Honey Engineering驾驭工程详解.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "Honey Engineering驾驭工程详解"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "6a06560554f21c55",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,16 +190,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "61abb9305dff7041",
   "lastOpenFiles": [
-    "欢迎.md",
+    "视频链接转文字教程.md",
+    "测试/测试.md",
+    "测试",
+    "测试/欢迎.md",
+    "测试/名单测试.md",
+    "Honey Engineering驾驭工程详解.md",
     "assets/test-image.png",
-    "测试.md",
     "assets",
-    "名单测试.md",
     "测试文档.md",
     "抖音"
   ]
