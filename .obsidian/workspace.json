@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f0c23f5e568042",
+        "id": "eed2232fb7d9ef1e",
         "type": "tabs",
         "children": [
           {
-            "id": "61abb9305dff7041",
+            "id": "161bee310737d5e6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1.学习/⭐Honey Engineering驾驭工程详解.md",
-                "bFile": "1.学习/⭐Honey Engineering驾驭工程详解.md",
-                "aRef": ""
+                "file": "1.学习/视频链接转文字教程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ⭐Honey Engineering驾驭工程详解  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "视频链接转文字教程"
             }
           }
         ]
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1.学习/⭐Honey Engineering驾驭工程详解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "⭐Honey Engineering驾驭工程详解 的大纲"
             }
           },
           {
@@ -193,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a06560554f21c55",
+  "active": "161bee310737d5e6",
   "lastOpenFiles": [
     "1.学习/⭐Honey Engineering驾驭工程详解.md",
     "1.学习/视频链接转文字教程.md",
+    "4.其他/测试/国内AI情报简报-2026-05-13.md",
     "4.其他",
     "3.生活",
     "1.学习",

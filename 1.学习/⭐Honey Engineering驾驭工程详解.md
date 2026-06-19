@@ -4,6 +4,7 @@ tags:
   - AI工程
   - Harness Engineering
   - 笔记
+原文地址: https://www.douyin.com/video/7626372379739950355
 ---
 # Harness Engineering（驾驭工程）概念详解
 
