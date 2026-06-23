@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eed2232fb7d9ef1e",
+        "id": "11809600c0dd7a38",
         "type": "tabs",
         "children": [
           {
-            "id": "161bee310737d5e6",
+            "id": "c96f638fbb505d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.学习/数据备份与知识库搭建-第二大脑.md",
+                "file": "1.学习/Teach-Skill-交互式学习Skill详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据备份与知识库搭建-第二大脑"
+              "title": "Teach-Skill-交互式学习Skill详解"
             }
           }
         ]
@@ -194,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161bee310737d5e6",
+  "active": "c96f638fbb505d09",
   "lastOpenFiles": [
+    "1.学习/数据备份与知识库搭建-第二大脑.md",
     "1.学习/视频链接转文字教程.md",
     "1.学习/⭐Honey Engineering驾驭工程详解.md",
     "1.学习/Teach-Skill-交互式学习Skill详解.md",
-    "1.学习/数据备份与知识库搭建-第二大脑.md",
     "未命名.base",
     "4.其他/测试/国内AI情报简报-2026-05-13.md",
     "4.其他",
